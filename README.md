@@ -1,4 +1,6 @@
 # MyRecipe App
+
+## 📌 Short Description
 MyRecipe is a modern Android app built with Jetpack Compose that allows users to explore different recipe categories. It fetches recipe data from an API, displays categories in a grid format, and provides a smooth user experience with a clean UI.
 
 ---
@@ -19,6 +21,11 @@ MyRecipe is a modern Android app built with Jetpack Compose that allows users to
 - **Coil** - Image loading
 - **ViewModel & LiveData** - State management
 - **Coroutines** - Asynchronous programming
+
+---
+
+## 📸 Screenshots 
+![photo_1_2025-02-21_23-54-12](https://github.com/user-attachments/assets/198e5aa3-fbf1-4fc7-874f-8940bc39e50d)
 
 ---
 
@@ -50,5 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or contributions, feel free to reach out:
 - Email: abrahamaddisu217@gmail.com
 - GitHub: [Minas-27](https://github.com/Minas-27)
-
 
